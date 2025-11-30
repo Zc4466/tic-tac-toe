@@ -44,3 +44,6 @@ and allows the user to reset the game at any time.
 6. Reset button clears the board and resets game state  
 
 ---
+
+## Demo Video
+Demo video with audio explanation
